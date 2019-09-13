@@ -89,6 +89,7 @@ data_train = data_out[(data_out['tm_mon'] == "12") |
                       (data_out['tm_mon'] == '6') |
                       (data_out['tm_mon'] == '9') |
                       (data_out['tm_mon'] == '11')]
+# 为了方便调整变量, 列出了所有特征
 # AOD
 data_aod_test = data_test[['AOD_0']]
 data_aod_train = data_train[['AOD_0']]
