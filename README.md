@@ -30,6 +30,8 @@
 
 ## 建模文件夹 Model
 * 初步建立模型并应用交叉验证和重采样方法, 以下模型有待后续完善:  
+> 深度学习:
+>>[分布式特征感知神经网络](https://github.com/xunchanglu0901/MODIS_AOD_PM25/blob/master/%E5%BB%BA%E6%A8%A1/%E5%88%86%E5%B8%83%E5%BC%8F%E7%89%B9%E5%BE%81%E6%84%9F%E7%9F%A5%E6%B7%B1%E5%BA%A6%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.py)
 > 神经网络:
 >>[单输入模型](https://github.com/xunchanglu0901/MODIS04_3K_PM25/blob/master/%E5%BB%BA%E6%A8%A1/%E5%8D%95%E8%BE%93%E5%85%A5.py),
   [多输入模型 ](https://github.com/xunchanglu0901/MODIS04_3K_PM25/blob/master/%E5%BB%BA%E6%A8%A1/%E5%A4%9A%E8%BE%93%E5%85%A5.py); 
